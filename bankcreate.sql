@@ -1,8 +1,8 @@
 
-CREATE DATABASE EZ_Bank42;
+CREATE DATABASE EZ_Bank;
 GO
 
-USE EZ_Bank42;
+USE EZ_Bank;
 
 -- Create the basic tables first
 CREATE TABLE Authentication (
